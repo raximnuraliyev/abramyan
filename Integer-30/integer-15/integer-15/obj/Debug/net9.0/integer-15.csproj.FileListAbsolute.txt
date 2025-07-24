@@ -1,0 +1,14 @@
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\bin\Debug\net9.0\integer-15.exe
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\bin\Debug\net9.0\integer-15.deps.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\bin\Debug\net9.0\integer-15.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\bin\Debug\net9.0\integer-15.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\bin\Debug\net9.0\integer-15.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\integer-15.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\integer-15.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\integer-15.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\integer-15.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\integer-15.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\refint\integer-15.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\integer-15.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\integer-15.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-15\integer-15\obj\Debug\net9.0\ref\integer-15.dll

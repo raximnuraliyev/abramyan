@@ -1,0 +1,14 @@
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\bin\Debug\net9.0\integer-29.exe
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\bin\Debug\net9.0\integer-29.deps.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\bin\Debug\net9.0\integer-29.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\bin\Debug\net9.0\integer-29.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\bin\Debug\net9.0\integer-29.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\integer-29.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\integer-29.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\integer-29.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\integer-29.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\integer-29.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\refint\integer-29.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\integer-29.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\integer-29.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-29\integer-29\obj\Debug\net9.0\ref\integer-29.dll

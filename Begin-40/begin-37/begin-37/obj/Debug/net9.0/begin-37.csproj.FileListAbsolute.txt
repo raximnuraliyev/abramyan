@@ -1,0 +1,14 @@
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\bin\Debug\net9.0\begin-37.exe
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\bin\Debug\net9.0\begin-37.deps.json
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\bin\Debug\net9.0\begin-37.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\bin\Debug\net9.0\begin-37.dll
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\bin\Debug\net9.0\begin-37.pdb
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\begin-37.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\begin-37.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\begin-37.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\begin-37.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\begin-37.dll
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\refint\begin-37.dll
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\begin-37.pdb
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\begin-37.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Begin-40\begin-37\begin-37\obj\Debug\net9.0\ref\begin-37.dll
