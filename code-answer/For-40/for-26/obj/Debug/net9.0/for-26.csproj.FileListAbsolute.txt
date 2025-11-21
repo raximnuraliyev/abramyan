@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\For-40\for-26\bin\Debug\net9.0\for-26.exe
+D:\pdp\Abramyan\code-answer\For-40\for-26\bin\Debug\net9.0\for-26.deps.json
+D:\pdp\Abramyan\code-answer\For-40\for-26\bin\Debug\net9.0\for-26.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\For-40\for-26\bin\Debug\net9.0\for-26.dll
+D:\pdp\Abramyan\code-answer\For-40\for-26\bin\Debug\net9.0\for-26.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.sourcelink.json
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.dll
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\refint\for-26.dll
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\for-26.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\For-40\for-26\obj\Debug\net9.0\ref\for-26.dll

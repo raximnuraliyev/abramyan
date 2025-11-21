@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\If-30\if-15\bin\Debug\net9.0\if-15.exe
+D:\pdp\Abramyan\code-answer\If-30\if-15\bin\Debug\net9.0\if-15.deps.json
+D:\pdp\Abramyan\code-answer\If-30\if-15\bin\Debug\net9.0\if-15.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\If-30\if-15\bin\Debug\net9.0\if-15.dll
+D:\pdp\Abramyan\code-answer\If-30\if-15\bin\Debug\net9.0\if-15.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.sourcelink.json
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.dll
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\refint\if-15.dll
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\if-15.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\If-30\if-15\obj\Debug\net9.0\ref\if-15.dll

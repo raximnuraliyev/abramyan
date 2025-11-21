@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\While-30\while-12\bin\Debug\net9.0\while-12.exe
+D:\pdp\Abramyan\code-answer\While-30\while-12\bin\Debug\net9.0\while-12.deps.json
+D:\pdp\Abramyan\code-answer\While-30\while-12\bin\Debug\net9.0\while-12.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\While-30\while-12\bin\Debug\net9.0\while-12.dll
+D:\pdp\Abramyan\code-answer\While-30\while-12\bin\Debug\net9.0\while-12.pdb
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.sourcelink.json
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.dll
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\refint\while-12.dll
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.pdb
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\while-12.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\While-30\while-12\obj\Debug\net9.0\ref\while-12.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BEGIN-36/1.0.0": {
+        "runtime": {
+          "BEGIN-36.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BEGIN-36/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

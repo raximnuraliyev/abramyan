@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\If-30\if-4\bin\Debug\net9.0\if-4.exe
+D:\pdp\Abramyan\code-answer\If-30\if-4\bin\Debug\net9.0\if-4.deps.json
+D:\pdp\Abramyan\code-answer\If-30\if-4\bin\Debug\net9.0\if-4.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\If-30\if-4\bin\Debug\net9.0\if-4.dll
+D:\pdp\Abramyan\code-answer\If-30\if-4\bin\Debug\net9.0\if-4.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.sourcelink.json
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.dll
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\refint\if-4.dll
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\if-4.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\If-30\if-4\obj\Debug\net9.0\ref\if-4.dll

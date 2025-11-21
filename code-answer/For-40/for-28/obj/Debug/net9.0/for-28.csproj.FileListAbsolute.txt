@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\For-40\for-28\bin\Debug\net9.0\for-28.exe
+D:\pdp\Abramyan\code-answer\For-40\for-28\bin\Debug\net9.0\for-28.deps.json
+D:\pdp\Abramyan\code-answer\For-40\for-28\bin\Debug\net9.0\for-28.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\For-40\for-28\bin\Debug\net9.0\for-28.dll
+D:\pdp\Abramyan\code-answer\For-40\for-28\bin\Debug\net9.0\for-28.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.sourcelink.json
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.dll
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\refint\for-28.dll
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\for-28.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\For-40\for-28\obj\Debug\net9.0\ref\for-28.dll

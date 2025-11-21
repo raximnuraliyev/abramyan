@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\For-40\for-3\bin\Debug\net9.0\for-3.exe
+D:\pdp\Abramyan\code-answer\For-40\for-3\bin\Debug\net9.0\for-3.deps.json
+D:\pdp\Abramyan\code-answer\For-40\for-3\bin\Debug\net9.0\for-3.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\For-40\for-3\bin\Debug\net9.0\for-3.dll
+D:\pdp\Abramyan\code-answer\For-40\for-3\bin\Debug\net9.0\for-3.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.sourcelink.json
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.dll
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\refint\for-3.dll
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\for-3.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\For-40\for-3\obj\Debug\net9.0\ref\for-3.dll

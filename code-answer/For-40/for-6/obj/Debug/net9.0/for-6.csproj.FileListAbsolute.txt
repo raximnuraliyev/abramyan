@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\For-40\for-6\bin\Debug\net9.0\for-6.exe
+D:\pdp\Abramyan\code-answer\For-40\for-6\bin\Debug\net9.0\for-6.deps.json
+D:\pdp\Abramyan\code-answer\For-40\for-6\bin\Debug\net9.0\for-6.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\For-40\for-6\bin\Debug\net9.0\for-6.dll
+D:\pdp\Abramyan\code-answer\For-40\for-6\bin\Debug\net9.0\for-6.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.sourcelink.json
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.dll
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\refint\for-6.dll
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.pdb
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\for-6.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\For-40\for-6\obj\Debug\net9.0\ref\for-6.dll

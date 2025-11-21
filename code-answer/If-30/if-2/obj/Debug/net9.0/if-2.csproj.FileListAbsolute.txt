@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\If-30\if-2\bin\Debug\net9.0\if-2.exe
+D:\pdp\Abramyan\code-answer\If-30\if-2\bin\Debug\net9.0\if-2.deps.json
+D:\pdp\Abramyan\code-answer\If-30\if-2\bin\Debug\net9.0\if-2.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\If-30\if-2\bin\Debug\net9.0\if-2.dll
+D:\pdp\Abramyan\code-answer\If-30\if-2\bin\Debug\net9.0\if-2.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.sourcelink.json
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.dll
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\refint\if-2.dll
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\if-2.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\If-30\if-2\obj\Debug\net9.0\ref\if-2.dll

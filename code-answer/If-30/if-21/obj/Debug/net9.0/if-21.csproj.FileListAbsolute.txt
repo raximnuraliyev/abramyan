@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\If-30\if-21\bin\Debug\net9.0\if-21.exe
+D:\pdp\Abramyan\code-answer\If-30\if-21\bin\Debug\net9.0\if-21.deps.json
+D:\pdp\Abramyan\code-answer\If-30\if-21\bin\Debug\net9.0\if-21.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\If-30\if-21\bin\Debug\net9.0\if-21.dll
+D:\pdp\Abramyan\code-answer\If-30\if-21\bin\Debug\net9.0\if-21.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.sourcelink.json
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.dll
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\refint\if-21.dll
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.pdb
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\if-21.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\If-30\if-21\obj\Debug\net9.0\ref\if-21.dll

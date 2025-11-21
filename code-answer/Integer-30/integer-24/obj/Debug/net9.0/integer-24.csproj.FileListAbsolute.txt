@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\bin\Debug\net9.0\integer-24.exe
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\bin\Debug\net9.0\integer-24.deps.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\bin\Debug\net9.0\integer-24.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\bin\Debug\net9.0\integer-24.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\bin\Debug\net9.0\integer-24.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.sourcelink.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\refint\integer-24.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\integer-24.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-24\obj\Debug\net9.0\ref\integer-24.dll

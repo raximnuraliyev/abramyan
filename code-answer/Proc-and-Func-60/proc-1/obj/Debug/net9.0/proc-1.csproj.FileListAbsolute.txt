@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\bin\Debug\net9.0\proc-1.exe
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\bin\Debug\net9.0\proc-1.deps.json
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\bin\Debug\net9.0\proc-1.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\bin\Debug\net9.0\proc-1.dll
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\bin\Debug\net9.0\proc-1.pdb
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.sourcelink.json
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.dll
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\refint\proc-1.dll
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.pdb
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\proc-1.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Proc-and-Func-60\proc-1\obj\Debug\net9.0\ref\proc-1.dll

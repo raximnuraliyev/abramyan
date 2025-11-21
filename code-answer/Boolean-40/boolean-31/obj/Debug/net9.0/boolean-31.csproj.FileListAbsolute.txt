@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\bin\Debug\net9.0\boolean-31.exe
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\bin\Debug\net9.0\boolean-31.deps.json
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\bin\Debug\net9.0\boolean-31.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\bin\Debug\net9.0\boolean-31.dll
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\bin\Debug\net9.0\boolean-31.pdb
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.sourcelink.json
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.dll
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\refint\boolean-31.dll
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.pdb
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\boolean-31.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Boolean-40\boolean-31\obj\Debug\net9.0\ref\boolean-31.dll

@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\bin\Debug\net9.0\integer-21.exe
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\bin\Debug\net9.0\integer-21.deps.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\bin\Debug\net9.0\integer-21.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\bin\Debug\net9.0\integer-21.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\bin\Debug\net9.0\integer-21.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.sourcelink.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\refint\integer-21.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\integer-21.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-21\obj\Debug\net9.0\ref\integer-21.dll

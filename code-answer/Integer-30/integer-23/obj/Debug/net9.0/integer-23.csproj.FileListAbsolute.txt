@@ -1,0 +1,15 @@
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\bin\Debug\net9.0\integer-23.exe
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\bin\Debug\net9.0\integer-23.deps.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\bin\Debug\net9.0\integer-23.runtimeconfig.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\bin\Debug\net9.0\integer-23.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\bin\Debug\net9.0\integer-23.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.GeneratedMSBuildEditorConfig.editorconfig
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.AssemblyInfoInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.AssemblyInfo.cs
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.csproj.CoreCompileInputs.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.sourcelink.json
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\refint\integer-23.dll
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.pdb
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\integer-23.genruntimeconfig.cache
+D:\pdp\Abramyan\code-answer\Integer-30\integer-23\obj\Debug\net9.0\ref\integer-23.dll
